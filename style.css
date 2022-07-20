@@ -38,10 +38,6 @@ body {
     opacity: 0.9;
     transition: all 1s ease-in-out;
 }
-.container:hover{
-    opacity: 1;
-    box-shadow: 0px 0px 10px  rgb(215, 215, 224), 0px 0px 10px  rgb(213, 199, 199), 0px 0px 10px  rgb(213, 224, 213)
-}
 
 .header {
 	border-bottom: 1px solid #f0f0f0;
